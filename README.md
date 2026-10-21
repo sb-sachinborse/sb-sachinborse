@@ -53,8 +53,8 @@ I enjoy automating repetitive tasks, managing infrastructure as code, building C
 </p> -->
 
 ### Monitoring, Logging & Security
-- **Monitoring:** Prometheus, Grafana, Cloud Monitoring, Amazon CloudWatch
-- **Logging:** Google Cloud Logging, CloudWatch Logs, Linux system logs
+- **Monitoring:** Prometheus, Grafana, Cloud Monitoring
+- **Logging:** Google Cloud Logging, Linux system logs
 - **Container Security:** Trivy, image vulnerability scanning
 - **IaC Security:** Checkov, Terraform configuration scanning
 - **Kubernetes Security:** RBAC, network policies, pod security controls
