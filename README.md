@@ -14,7 +14,7 @@ I'm building my expertise in **DevOps Engineering, Cloud Infrastructure, Automat
 
 I enjoy automating repetitive tasks, managing infrastructure as code, building CI/CD pipelines, deploying containerized applications, and implementing security throughout the software delivery lifecycle.
 
-- ☁️ **Cloud Platforms:** Google Cloud Platform (GCP) and Amazon Web Services (AWS)
+- ☁️ **Cloud Platforms:** Google Cloud Platform (GCP) 
 - 🐧 **Operating Systems:** Linux administration and troubleshooting
 - 📦 **Containers:** Docker and Kubernetes
 - 🔄 **CI/CD:** Jenkins and automated deployment pipelines
