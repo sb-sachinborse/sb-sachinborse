@@ -125,6 +125,62 @@ Monitoring + Centralized Logs
 - GCP infrastructure, IAM, GKE, and Cloud Operations
 - DevSecOps, vulnerability management, and observability
 
+
+## ✍️ Latest Blog Posts
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://sachinborse.hashnode.dev/how-to-install-jenkins-on-linux">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1724007815274/3824b541-96c1-4f71-94f9-43a808003ab8.png" alt="Blog post 1" width="100%">
+        <br><strong>How to install Jenkins on linux</strong>
+      </a>
+      <br><sub>Oct 23, 2026</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="BLOG_POST_URL_2">
+        <img src="THUMBNAIL_URL_2" alt="Blog post 2" width="100%">
+        <br><strong>Blog Post Title Two</strong>
+      </a>
+      <br><sub>Oct 20, 2026</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="BLOG_POST_URL_3">
+        <img src="THUMBNAIL_URL_3" alt="Blog post 3" width="100%">
+        <br><strong>Blog Post Title Three</strong>
+      </a>
+      <br><sub>Oct 18, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="BLOG_POST_URL_4">
+        <img src="THUMBNAIL_URL_4" alt="Blog post 4" width="100%">
+        <br><strong>Blog Post Title Four</strong>
+      </a>
+      <br><sub>Oct 15, 2026</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="BLOG_POST_URL_5">
+        <img src="THUMBNAIL_URL_5" alt="Blog post 5" width="100%">
+        <br><strong>Blog Post Title Five</strong>
+      </a>
+      <br><sub>Oct 12, 2026</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="BLOG_POST_URL_6">
+        <img src="THUMBNAIL_URL_6" alt="Blog post 6" width="100%">
+        <br><strong>Blog Post Title Six</strong>
+      </a>
+      <br><sub>Oct 10, 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- ➡️ **[More articles on Medium →](YOUR_MEDIUM_PROFILE_URL)** -->
+
+
+
 ## 🤝 Connect With Me
 
 <p>
