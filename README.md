@@ -130,19 +130,17 @@ Monitoring + Centralized Logs
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://sachinborse.hashnode.dev/how-to-install-jenkins-on-linux">
-        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1724007815274/3824b541-96c1-4f71-94f9-43a808003ab8.png" alt="Blog post 1" width="100%">
-        <br><strong>How to install Jenkins on linux</strong>
+      <td width="33%" align="center" valign="top">
+      <a href="https://sachinborse.hashnode.dev/terraform-modules-deep-dive-from-file-systems-and-symlinks-to-reusable-gcp-infrastructure">
+        <img src="https://cdn.hashnode.com/uploads/covers/64a7b72c0933c0072c625613/92849522-89d0-4f58-929c-88d34f61392f.png" alt="Blog post 2" width="100%">
+        <br><strong>Terraform Modules</strong>
       </a>
-      <br><sub>Oct 23, 2026</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="BLOG_POST_URL_2">
-        <img src="THUMBNAIL_URL_2" alt="Blog post 2" width="100%">
-        <br><strong>Blog Post Title Two</strong>
+      <a href="https://sachinborse.hashnode.dev/how-to-install-jenkins-on-linux">
+        <img src="https://cdn.hashnode.com/uploads/covers/64a7b72c0933c0072c625613/724749a7-c0cc-4956-a503-099bed3ec73a.png" alt="Blog post 1" width="100%">
+        <br><strong>How to install Jenkins on linux</strong>
       </a>
-      <br><sub>Oct 20, 2026</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="BLOG_POST_URL_3">
