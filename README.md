@@ -143,11 +143,10 @@ Monitoring + Centralized Logs
       </a>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="BLOG_POST_URL_3">
-        <img src="THUMBNAIL_URL_3" alt="Blog post 3" width="100%">
-        <br><strong>Blog Post Title Three</strong>
+      <a href="https://sachinborse.hashnode.dev/shift-left-security-stop-finding-bugs-the-night-before-release">
+        <img src="https://cdn.hashnode.com/uploads/covers/64a7b72c0933c0072c625613/653d9ae6-5d56-4f0c-b02e-a16c522ccdc9.svg" alt="Blog post 3" width="100%">
+        <br><strong>Shift Left Security: Stop Finding Bugs the Night Before Release</strong>
       </a>
-      <br><sub>Oct 18, 2026</sub>
     </td>
   </tr>
   <tr>
