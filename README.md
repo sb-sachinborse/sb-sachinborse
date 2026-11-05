@@ -149,29 +149,7 @@ Monitoring + Centralized Logs
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="BLOG_POST_URL_4">
-        <img src="THUMBNAIL_URL_4" alt="Blog post 4" width="100%">
-        <br><strong>Blog Post Title Four</strong>
-      </a>
-      <br><sub>Oct 15, 2026</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="BLOG_POST_URL_5">
-        <img src="THUMBNAIL_URL_5" alt="Blog post 5" width="100%">
-        <br><strong>Blog Post Title Five</strong>
-      </a>
-      <br><sub>Oct 12, 2026</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="BLOG_POST_URL_6">
-        <img src="THUMBNAIL_URL_6" alt="Blog post 6" width="100%">
-        <br><strong>Blog Post Title Six</strong>
-      </a>
-      <br><sub>Oct 10, 2026</sub>
-    </td>
-  </tr>
+
 </table>
 
 <!-- ➡️ **[More articles on Medium →](YOUR_MEDIUM_PROFILE_URL)** -->
